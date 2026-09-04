@@ -1,0 +1,10 @@
+{
+  "name": "INSPECTRA",
+  "description": "Legal Metrology Packaged Commodities Inspection System - Scan, Read, Verify, Report",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
